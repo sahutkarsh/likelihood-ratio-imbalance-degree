@@ -10,3 +10,5 @@ from the intermediate classes. Imbalance Degree (ID) is a metric was proposed wh
 in mind that it has to consider the intermediate classes as well. But it requires us to choose a
 distance metric that largely affected the results. It also assumes that data with more minority
 classes are more imbalanced than data with less minority classes, which is not always true.
+
+A new metric is proposed to measure the class imbalance extent of multi-class data based on the likelihood-ratio test. It can provide effective measurement of class-imbalance extent and can be easily applied in practice. In the experiments, it demonstrates its superior performances over IR and ID.

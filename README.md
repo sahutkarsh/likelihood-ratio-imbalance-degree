@@ -1,4 +1,4 @@
-# likelihood-ratio-imbalance-degree
+# log-likelihood-index
 
 Implementation of the paper- LRID: A new metric of multi-class imbalance degree based on likelihood-ratio test by Rui Zhu et. al.
 
